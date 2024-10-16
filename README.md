@@ -6,7 +6,7 @@ This section is dedicated to documenting my journey as I learn the PY programmin
 Here, you'll find a collection of codes, algorithms, and exercises that I've worked on as part of my learning process.
 
 ## Disclaimer
-Every code here will be tested and meant to be tested on [Replit](https://replit.com).
+Every code here was created and tested on [VSCODE](https://code.visualstudio.com/).
 
 ## Purpose
 The main purpose of this repository is to track my progress, showcase my understanding of PY programming concepts, and serve as a resource for fellow learners who may benefit from studying or reviewing these examples.
